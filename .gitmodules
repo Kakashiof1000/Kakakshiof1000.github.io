@@ -1,0 +1,3 @@
+[submodule "themes/pugazh-coder"]
+	path = themes/pugazh-coder
+	url = https://github.com/luizdepra/hugo-coder.git
